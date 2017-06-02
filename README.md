@@ -13,5 +13,5 @@ Obs: Os dados devem ser inseridos logo após o '---'
 ---
 
 ### Marlon Ferrari
-- Título: [Chatbots em Python](http://link-para-slides.com)
+- Título: [Chatbots em Python](https://github.com/davidalves1/conferencia-python-es-2017/blob/master/docs/chat-bots-em-python.pdf)
 - Descrição: ChatBots em Python em tempos de digitalização de serviços
