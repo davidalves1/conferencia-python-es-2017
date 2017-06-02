@@ -6,8 +6,12 @@ Repositório das palestras ministradas na Conferência Python Espírito Santo qu
 ```
 ### Nome do Palestrante
 - Título: [Título da palestra](http://link-para-slides.com)
-- Dscrição: um resumo sobre a apresentação
+- Descrição: um resumo sobre a apresentação
 
 Obs: Os dados devem ser inseridos logo após o '---'
 ```
 ---
+
+### Marlon Ferrari
+- Título: [Chatbots em Python](http://link-para-slides.com)
+- Descrição: ChatBots em Python em tempos de digitalização de serviços
